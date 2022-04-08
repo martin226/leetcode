@@ -1,4 +1,4 @@
-# Reverse Integer
+# Palindrome Number
 
 **Problem:** https://leetcode.com/problems/palindrome-number/
 
