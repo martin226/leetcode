@@ -1,5 +1,7 @@
 # Reverse Integer
 
+**Problem:** https://leetcode.com/problems/reverse-integer/
+
 In order to reverse the integer, we simply get the one's digit of `x` by taking `x` modulo 10, multiply the answer by 10 and add the one's digit, floor divide `x` by 10 to get rid of one's digit, and repeat until `x` != 0.
 
 In order to meet the integer overflow condition, we must also add a few additional checks.
