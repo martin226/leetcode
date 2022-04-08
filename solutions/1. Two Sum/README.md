@@ -1,5 +1,7 @@
 # Two Sum
 
+**Problem:** https://leetcode.com/problems/two-sum/
+
 Let `v`<sub>`i`</sub> denote the `i`<sub>th</sub> value in the `nums` array.
 
 We iterate through `nums` while maintaining a hashmap `idx` which pairs `v`<sub>`i`</sub> with `i`.
